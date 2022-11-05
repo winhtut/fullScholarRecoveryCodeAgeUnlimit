@@ -1,0 +1,3 @@
+D:/mySrouceCode/FullScholarUnlimit/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/mySrouceCode/FullScholarUnlimit/cmake-build-debug/CMakeFiles/FullScholarUnlimit.dir
+D:/mySrouceCode/FullScholarUnlimit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
